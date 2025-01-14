@@ -1,5 +1,4 @@
 # Bike Shop Project 
-Bike Shop Application
 
 This application is a console based application that demonstrates my skills in Object Oriented Programming using Python.  
 This application is a basic application intended to be used by a bike shop to manage the rentals of different kinds of bikes.
